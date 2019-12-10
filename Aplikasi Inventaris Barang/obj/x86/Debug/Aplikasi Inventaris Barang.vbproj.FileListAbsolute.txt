@@ -1,0 +1,78 @@
+C:\Users\MrX\documents\visual studio 2010\Projects\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang.exe
+C:\Users\MrX\documents\visual studio 2010\Projects\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang.pdb
+C:\Users\MrX\documents\visual studio 2010\Projects\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang.xml
+C:\Users\MrX\documents\visual studio 2010\Projects\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.FormLogin.resources
+C:\Users\MrX\documents\visual studio 2010\Projects\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.Resources.resources
+C:\Users\MrX\documents\visual studio 2010\Projects\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang.vbproj.GenerateResource.Cache
+C:\Users\MrX\documents\visual studio 2010\Projects\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang.exe
+C:\Users\MrX\documents\visual studio 2010\Projects\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang.xml
+C:\Users\MrX\documents\visual studio 2010\Projects\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang.pdb
+C:\Users\MrX\documents\visual studio 2010\Projects\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.splashscreen.resources
+C:\Users\MrX\documents\visual studio 2010\Projects\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.FormMenu.resources
+C:\Users\MrX\documents\visual studio 2010\Projects\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.FormDaftar.resources
+C:\Users\MrX\documents\visual studio 2010\Projects\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\inventaris.mdb
+C:\Users\MrX\documents\visual studio 2010\Projects\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang.exe.config
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\inventaris.mdb
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.FormDaftar.resources
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.FormLogin.resources
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.FormMenu.resources
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.Resources.resources
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.splashscreen.resources
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang.vbproj.GenerateResource.Cache
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang.vbprojResolveAssemblyReference.cache
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.Report.resources
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang versi 1.2.exe.config
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang versi 1.2.exe.manifest
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang versi 1.2.application
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang versi 1.2.exe
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang versi 1.2.pdb
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang versi 1.2.xml
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang versi 1.2.exe.manifest
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang versi 1.2.application
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang versi 1.2.exe
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang versi 1.2.xml
+D:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang versi 1.2.pdb
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\inventaris.mdb
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang.vbprojResolveAssemblyReference.cache
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.FormDaftar.resources
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.FormLogin.resources
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.FormMenu.resources
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.Resources.resources
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.Report.resources
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.splashscreen.resources
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang.vbproj.GenerateResource.Cache
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang versi 1.1.4.exe.config
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang versi 1.1.4.exe.manifest
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang versi 1.1.4.application
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang versi 1.1.4.exe
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang versi 1.1.4.pdb
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang versi 1.1.4.xml
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang versi 1.1.4.exe.manifest
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang versi 1.1.4.application
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang versi 1.1.4.exe
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang versi 1.1.4.xml
+E:\vb\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang versi 1.1.4.pdb
+C:\Users\DIANSHAFER\Documents\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang versi 1.1.4.exe.config
+C:\Users\DIANSHAFER\Documents\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang versi 1.1.4.exe
+C:\Users\DIANSHAFER\Documents\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang versi 1.1.4.xml
+C:\Users\DIANSHAFER\Documents\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang versi 1.1.4.pdb
+C:\Users\DIANSHAFER\Documents\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang.vbprojResolveAssemblyReference.cache
+C:\Users\DIANSHAFER\Documents\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.FormDaftar.resources
+C:\Users\DIANSHAFER\Documents\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.FormLogin.resources
+C:\Users\DIANSHAFER\Documents\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.FormMenu.resources
+C:\Users\DIANSHAFER\Documents\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.Resources.resources
+C:\Users\DIANSHAFER\Documents\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.Report.resources
+C:\Users\DIANSHAFER\Documents\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.splashscreen.resources
+C:\Users\DIANSHAFER\Documents\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang.vbproj.GenerateResource.Cache
+G:\HARDDISK INTERNAL\Document\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\bin\Debug\Aplikasi Inventaris Barang versi 1.1.4.exe.config
+G:\HARDDISK INTERNAL\Document\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang versi 1.1.4.exe
+G:\HARDDISK INTERNAL\Document\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang versi 1.1.4.xml
+G:\HARDDISK INTERNAL\Document\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang versi 1.1.4.pdb
+G:\HARDDISK INTERNAL\Document\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang.vbprojResolveAssemblyReference.cache
+G:\HARDDISK INTERNAL\Document\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.FormDaftar.resources
+G:\HARDDISK INTERNAL\Document\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.FormLogin.resources
+G:\HARDDISK INTERNAL\Document\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.FormMenu.resources
+G:\HARDDISK INTERNAL\Document\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.Resources.resources
+G:\HARDDISK INTERNAL\Document\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.Report.resources
+G:\HARDDISK INTERNAL\Document\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi_Inventaris_Barang.splashscreen.resources
+G:\HARDDISK INTERNAL\Document\Aplikasi Inventaris Barang\Aplikasi Inventaris Barang\obj\x86\Debug\Aplikasi Inventaris Barang.vbproj.GenerateResource.Cache
